@@ -1,6 +1,6 @@
 # Load Capacity Prediction For Internal Transportation
 
-One Paragraph of project description goes here
+Description to come
 
 ## Document Links
 
